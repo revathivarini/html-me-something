@@ -16,20 +16,20 @@ header {
    
 }
 
-li {
+#content {
     font-size: 36px;
     color: green;
   
-}
+} 
 
 p {
    font-size: 24px;
    color: blueviolet;
  
-}
+} 
 
 .date {
-    color:navy;
+    color:navy; 
     
 }
 
